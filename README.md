@@ -1,4 +1,4 @@
-# meshy-pose-rigging
+# rigmeshy-by-ricky
 
 A [Claude Code](https://claude.com/claude-code) skill that teaches Claude how
 to get clean, animation-ready character rigs out of **Meshy AI**'s Auto-Rig —
